@@ -6,7 +6,6 @@ This project demonstrates how to generate images using the **Stable Diffusion** 
 
 
 
-    device = torch.device("cuda")
 
 
 
